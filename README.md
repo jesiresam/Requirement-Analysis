@@ -82,6 +82,7 @@ Easy to understand for both technical and non-technical stakeholders.
 Provides a high-level overview of system functionality.
 
 Booking Management System Use Case Diagram:
+(./alx-booking-uc.drawio.png)
 
 
 Acceptance Criteria
